@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello 👋, I am Francesco Lanza
 
-<!--
-**iCiccio/iCiccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Software Engineer from Italy 🇮🇹 
+I am also a PhD 🎓 in Human Robot Interaction. 
+My research 🔬 tackles different fields (multi-agent systems, cognitive robotics and knowledge engineering) but all focused on building autonomous robots 🤖 able to collaborate with humans in cooperative scenario.
 
-Here are some ideas to get you started:
+I like to play with Arduino and Raspberry Pi with which I try to make smart every **things** I have under my hands 🤲🏻.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My passions are:
+- 🍕 Food 
+- 🤖 Artificial Intelligence and Autonomous Systems
+- 💻 Software Engineering
+- 🔬 Physics
