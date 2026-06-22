@@ -1,15 +1,17 @@
-### Hello 👋, I am Francesco Lanza
+## Francesco Lanza
+`PhD 🎓 | Researcher & AI Strategist`
 
-I am Software Engineer from Italy 🇮🇹
+My professional core is the development of **Autonomous Physical Systems**. I specialize in creating intelligent agents capable of navigating, reasoning, and collaborating in cooperative scenarios.
 
-I am also a PhD 🎓 in Human Robot Interaction. 
+### 🔬 Technical Domains
+*   **Multi-Agent Systems:** Decentralized decision-making and agentic coordination.
+*   **Cognitive Robotics:** Designing agents that prioritize human-AI synergy and trustworthy interaction.
+*   **Knowledge Engineering:** Architecting frameworks that translate complex domain knowledge into actionable autonomous behavior.
 
-My research 🔬 tackles different fields (multi-agent systems, cognitive robotics and knowledge engineering) but all aimed at the development of autonomous robots 🤖 able to collaborate with humans in cooperative scenarios.
+### 🚀 Strategic Vision
+I scout, design, and lead the development of next-generation AI ecosystems. My goal is to bridge the "reality gap"—turning abstract AI intelligence into robust, physical-world industrial innovation.
 
-I like to play with Arduino and Raspberry Pi with which I try to make smart every **things** I have under my hands 🤲🏻.
+### 🤲🏻 Beyond the Lab
+I am a builder at heart. Whether it is hacking embedded hardware (Arduino/Raspberry Pi) to make the physical world "smart" or exploring the fundamental laws of **Physics**, I am driven by the desire to understand and recreate complex systems.
 
-My passions are:
-- 🍕 Food 
-- 🤖 Artificial Intelligence and Autonomous Systems
-- 💻 Software Engineering
-- 🔬 Physics
+🍕 *Fuelled by Italian cuisine and scientific curiosity.*
